@@ -1,0 +1,10 @@
+c:\DEV\PEFSistemas.Cielo.Core\Cielo\obj\Release\netstandard2.0\Cielo.Core.csproj.CoreCompileInputs.cache
+c:\DEV\PEFSistemas.Cielo.Core\Cielo\obj\Release\netstandard2.0\Cielo.Core.AssemblyInfoInputs.cache
+c:\DEV\PEFSistemas.Cielo.Core\Cielo\obj\Release\netstandard2.0\Cielo.Core.AssemblyInfo.cs
+c:\DEV\PEFSistemas.Cielo.Core\Cielo\bin\Release\netstandard2.0\Cielo.Core.deps.json
+c:\DEV\PEFSistemas.Cielo.Core\Cielo\bin\Release\netstandard2.0\Cielo.Core.dll
+c:\DEV\PEFSistemas.Cielo.Core\Cielo\bin\Release\netstandard2.0\Cielo.Core.pdb
+c:\DEV\PEFSistemas.Cielo.Core\Cielo\obj\Release\netstandard2.0\Cielo.Core.dll
+c:\DEV\PEFSistemas.Cielo.Core\Cielo\obj\Release\netstandard2.0\Cielo.Core.pdb
+c:\DEV\PEFSistemas.Cielo.Core\Cielo\bin\Release\netstandard2.0\Cielo.Core.xml
+c:\DEV\PEFSistemas.Cielo.Core\Cielo\obj\Release\netstandard2.0\Cielo.Core.csprojResolveAssemblyReference.cache

@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Cielo.Core</name>
+    </assembly>
+    <members>
+        <member name="M:Cielo.Core.CieloApi.#ctor(Cielo.IMerchant)">
+            <summary>
+            New instance of production environment
+            </summary>
+            <param name="merchant">Merchant of production environment</param>
+        </member>
+        <member name="T:Cielo.Serializers.CieloJsonSerializer">
+            <summary>
+            Default JSON serializer for request bodies
+            Doesn't currently use the SerializeAs attribute, defers to Newtonsoft's attributes
+            </summary>
+        </member>
+        <member name="M:Cielo.Serializers.CieloJsonSerializer.#ctor">
+            <summary>
+            Default serializer
+            </summary>
+        </member>
+        <member name="M:Cielo.Serializers.CieloJsonSerializer.#ctor(Newtonsoft.Json.JsonSerializer)">
+            <summary>
+            Default serializer with overload for allowing custom Json.NET settings
+            </summary>
+        </member>
+        <member name="P:Cielo.Serializers.CieloJsonSerializer.DateFormat">
+            <summary>
+            Unused for JSON Serialization
+            </summary>
+        </member>
+        <member name="P:Cielo.Serializers.CieloJsonSerializer.RootElement">
+            <summary>
+            Unused for JSON Serialization
+            </summary>
+        </member>
+        <member name="P:Cielo.Serializers.CieloJsonSerializer.Namespace">
+            <summary>
+            Unused for JSON Serialization
+            </summary>
+        </member>
+        <member name="P:Cielo.Serializers.CieloJsonSerializer.ContentType">
+            <summary>
+            Content type for serialized content
+            </summary>
+        </member>
+        <member name="M:Cielo.Serializers.CieloJsonSerializer.Serialize(System.Object)">
+            <summary>
+            Serialize the object as JSON
+            </summary>
+            <param name="obj">Object to serialize</param>
+            <returns>JSON as String</returns>
+        </member>
+    </members>
+</doc>
