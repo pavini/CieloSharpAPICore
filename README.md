@@ -5,6 +5,8 @@ Fork de [agaboduarte](https://github.com/agaboduarte/Integracao-Cielo-Api-3.0)
 Biblioteca de integração com Cielo Api 3.0. 
 - Para utilização, você pode adicionar a referência deste repositório como um submodule, criar um Fork ou realizar a instalação via [Nuget](https://www.nuget.org/packages/CieloSharpAPICore/).
 
+Esta biblioteca foi portada para netstandard2.0
+
 Cenários atendidos
 ----
 
