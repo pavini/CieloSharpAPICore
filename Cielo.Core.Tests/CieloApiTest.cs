@@ -9,7 +9,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace Cielo.Core.Tests
 {
     [TestClass]
-    public class CieloApíTest
+    public class CieloApiTest
     {
         private ICieloApi _api;
         private DateTime _validExpirationDate;

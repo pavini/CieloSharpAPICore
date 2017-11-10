@@ -1,10 +1,11 @@
 ﻿# Integração Cielo Api 3.0
 
+Fork de [agaboduarte](https://github.com/agaboduarte/Integracao-Cielo-Api-3.0)
 
 Biblioteca de integração com Cielo Api 3.0. 
 - Para utilização, você pode adicionar a referência deste repositório como um submodule, criar um Fork ou realizar a instalação via [Nuget](https://www.nuget.org/packages/CieloSharpAPICore/).
 
-Cenários atendidos
+Cenários atendidos 
 ----
 
 Essa biblioteca atende os seguintes cenários:
@@ -18,7 +19,7 @@ Essa biblioteca atende os seguintes cenários:
 
 Links e referências
 ----
-* [Exemplos de uso dessa biblioteca](https://github.com/agaboduarte/Cielo-API-3.0/blob/master/CieloTests/CieloApiTests.cs)
+* [Exemplos de uso dessa biblioteca](https://github.com/pavini/CieloSharpAPICore/blob/master/Cielo.Core.Tests/CieloAp%C3%ADTest.cs)
 * [Documentação da api 3.0](http://developercielo.github.io/Webservice-3.0)
 * [Documentação antiga da api 1.5](http://bit.ly/2bO2Cw2)
 * [Criação de acesso para api](https://cadastrosandbox.cieloecommerce.cielo.com.br)
