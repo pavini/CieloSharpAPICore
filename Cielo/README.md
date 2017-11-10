@@ -1,4 +1,4 @@
-﻿# Integração Cielo Api 3.0
+﻿# Integração Cielo.Core Api 3.0
 
 Fork de [agaboduarte](https://github.com/agaboduarte/Integracao-Cielo-Api-3.0)
 
