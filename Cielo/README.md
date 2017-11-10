@@ -19,7 +19,7 @@ Essa biblioteca atende os seguintes cenários:
 
 Links e referências
 ----
-* [Exemplos de uso dessa biblioteca](https://github.com/pavini/CieloSharpAPICore/blob/master/Cielo.Core.Tests/CieloAp%C3%ADTest.cs)
+* [Exemplos de uso dessa biblioteca](https://github.com/pavini/CieloSharpAPICore/blob/master/Cielo.Core.Tests/CieloApiTest.cs)
 * [Documentação da api 3.0](http://developercielo.github.io/Webservice-3.0)
 * [Documentação antiga da api 1.5](http://bit.ly/2bO2Cw2)
 * [Criação de acesso para api](https://cadastrosandbox.cieloecommerce.cielo.com.br)
